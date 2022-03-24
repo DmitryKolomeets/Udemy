@@ -1,4 +1,4 @@
-package Homework.Lesson6;
+package homework.lesson6;
 
 public class PyatMetodov {
 

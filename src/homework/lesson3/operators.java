@@ -1,4 +1,4 @@
-package Homework.Lesson3;
+package homework.lesson3;
 
 public class operators {
 

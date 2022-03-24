@@ -1,4 +1,4 @@
-package Homework.Lesson5;
+package homework.lesson5;
 
 public class Student {
 

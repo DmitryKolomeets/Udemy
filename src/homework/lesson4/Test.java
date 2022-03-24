@@ -1,4 +1,4 @@
-package Homework.Lesson4;
+package homework.lesson4;
 
 public class Test {
     int sum(int a, int b, int c) {
